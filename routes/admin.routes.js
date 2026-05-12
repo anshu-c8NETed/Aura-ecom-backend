@@ -1,0 +1,1 @@
+'use strict'; const { adminRouter } = require('./_all.routes'); module.exports = adminRouter;

@@ -1,0 +1,1 @@
+'use strict'; const { wishlistRouter } = require('./_all.routes'); module.exports = wishlistRouter;

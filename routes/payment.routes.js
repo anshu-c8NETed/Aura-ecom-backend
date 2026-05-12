@@ -1,0 +1,1 @@
+'use strict'; const { paymentRouter } = require('./_all.routes'); module.exports = paymentRouter;
