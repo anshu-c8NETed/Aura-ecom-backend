@@ -1,1 +1,0 @@
-'use strict'; const { reviewRouter } = require('./_all.routes'); module.exports = reviewRouter;

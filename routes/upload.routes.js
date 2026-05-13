@@ -1,1 +1,0 @@
-'use strict'; const { uploadRouter } = require('./_all.routes'); module.exports = uploadRouter;

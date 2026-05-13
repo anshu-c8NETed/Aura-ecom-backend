@@ -1,1 +1,0 @@
-'use strict'; const { orderRouter } = require('./_all.routes'); module.exports = orderRouter;
